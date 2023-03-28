@@ -35,6 +35,8 @@
 
 
 
+{{--                    sds--}}
+
                     <div class="form-group">
                         <label for="image">Image Url</label>
                         <input name='image' type="text" class="form-control" id="image" value="{{old('image_url')??$content->image}}" placeholder="enter Image Url" >
