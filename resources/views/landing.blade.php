@@ -56,7 +56,7 @@
 
                                     <div class="card text-center">
                                         <div class="card-header">
-                                            <h2>Test I&#39m Ashton, and this is a basic laravel site</h2>
+                                            <h2>Testing I&#39m Ashton, and this is a basic laravel site</h2>
                                         </div>
 
 
